@@ -2,6 +2,10 @@
 
 Final project for the Building AI course
 
+## Summary
+
+The AI-Powered Energy Management System is a solution aimed at optimizing energy consumption in smart homes. It uses data such as appliance usage patterns, weather data, and occupancy information to make predictions about energy consumption and optimize energy usage. The solution could be integrated into smart home systems and used by homeowners to manage their energy consumption. The project addresses the need for energy efficiency and sustainability in the home, and has the potential to be expanded to include additional data sources and integrated into smart grid systems.
+
 ## Background
 
 Smart homes are becoming increasingly popular, but managing energy consumption in these homes can be a challenge. An AI-powered energy management system can help optimize energy consumption, reduce costs, and reduce the carbon footprint of a smart home. This project is important because it addresses the need for energy efficiency and sustainability in the home.
